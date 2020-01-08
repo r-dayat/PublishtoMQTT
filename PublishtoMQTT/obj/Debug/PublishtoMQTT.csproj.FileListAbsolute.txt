@@ -1,0 +1,12 @@
+c:\users\zhiro\source\repos\PublishtoMQTT\PublishtoMQTT\bin\Debug\PublishtoMQTT.exe.config
+c:\users\zhiro\source\repos\PublishtoMQTT\PublishtoMQTT\bin\Debug\PublishtoMQTT.exe
+c:\users\zhiro\source\repos\PublishtoMQTT\PublishtoMQTT\bin\Debug\PublishtoMQTT.pdb
+c:\users\zhiro\source\repos\PublishtoMQTT\PublishtoMQTT\obj\Debug\PublishtoMQTT.csprojResolveAssemblyReference.cache
+c:\users\zhiro\source\repos\PublishtoMQTT\PublishtoMQTT\obj\Debug\PublishtoMQTT.Form1.resources
+c:\users\zhiro\source\repos\PublishtoMQTT\PublishtoMQTT\obj\Debug\PublishtoMQTT.Properties.Resources.resources
+c:\users\zhiro\source\repos\PublishtoMQTT\PublishtoMQTT\obj\Debug\PublishtoMQTT.csproj.GenerateResource.Cache
+c:\users\zhiro\source\repos\PublishtoMQTT\PublishtoMQTT\obj\Debug\PublishtoMQTT.csproj.CoreCompileInputs.cache
+c:\users\zhiro\source\repos\PublishtoMQTT\PublishtoMQTT\obj\Debug\PublishtoMQTT.exe
+c:\users\zhiro\source\repos\PublishtoMQTT\PublishtoMQTT\obj\Debug\PublishtoMQTT.pdb
+c:\users\zhiro\source\repos\PublishtoMQTT\PublishtoMQTT\bin\Debug\M2Mqtt.Net.dll
+c:\users\zhiro\source\repos\PublishtoMQTT\PublishtoMQTT\bin\Debug\M2Mqtt.Net.pdb
